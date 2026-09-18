@@ -4,7 +4,7 @@
 I am pursuing a Bachelor of Science in Cybersecurity at Purdue Global. This repository serves as my technical proof of work, demonstrating my hands-on application of networking, penetration testing, and programmatic automation.
 
 ## Verifiable Profiles
-* **TryHackMe Profile:** [Link Your Profile Here]
+* **TryHackMe Profile:** https://tryhackme.com/p/alxjohnson0599 
 * **LinkedIn:** [Link Your LinkedIn Here]
 
 ## Core Skill Sets
